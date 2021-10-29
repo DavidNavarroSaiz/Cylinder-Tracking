@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 4
+names: ['cil15', 'cil18', 'cil45', 'cil9']
